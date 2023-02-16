@@ -77,3 +77,8 @@ input:focus {
 li {
   list-style-type: none;
 }
+.heading{
+  color: #062551;
+  text-align: center;
+  font-family: cursive;
+}
